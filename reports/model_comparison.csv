@@ -1,0 +1,4 @@
+Model,Threshold,Precision,Recall,F1-Score,PR-AUC,ROC-AUC,False Positives,False Negatives,True Positives,True Negatives
+Logistic Regression,0.4,1.0,1.0,1.0,1.0,1.0,0,0,17,9983
+Random Forest,0.4,1.0,1.0,1.0,1.0,1.0,0,0,17,9983
+XGBoost,0.4,0.9444,1.0,0.9714,1.0,1.0,1,0,17,9982

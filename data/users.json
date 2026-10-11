@@ -1,0 +1,10 @@
+{
+  "admin@intellibank.com": {
+    "username": "admin@intellibank.com",
+    "password_hash": "50e2a5a33608c5243365765193082d8c7c5b05ea2c76bf1f1f48f3c9a2177b7a",
+    "salt": "b0683dabee69a0452982b7a7c254aa1b",
+    "role": "admin",
+    "created_at": "2026-10-10T21:20:25.949340",
+    "last_login": "2026-10-11T12:24:47.530788"
+  }
+}
